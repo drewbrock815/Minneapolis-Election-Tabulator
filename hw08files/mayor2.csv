@@ -1,0 +1,214 @@
+number,first_choice,second_choice,third_choice
+1,Kate Knuth,Jacob Frey,Doug Nelson
+2,Sheila Nezhad,Christopher W David,Marcus Harcus
+3,Kate Knuth,Sheila Nezhad,Jacob Frey
+4,Jacob Frey,Bob Carney Jr,AJ Awed
+5,Sheila Nezhad,Kate Knuth,AJ Awed
+6,Sheila Nezhad,Mike Winter,Kate Knuth
+7,Sheila Nezhad,Kate Knuth,Marcus Harcus
+8,Kate Knuth,Sheila Nezhad,AJ Awed
+9,Jacob Frey,Paul E. Johnson,Sheila Nezhad
+10,Jacob Frey,Kate Knuth,Paul E. Johnson
+11,Sheila Nezhad,Jacob Frey,Kate Knuth
+12,AJ Awed,Kate Knuth,Mike Winter
+13,Kate Knuth,Marcus Harcus,Sheila Nezhad
+14,Jacob Frey,Laverne Turner,Paul E. Johnson
+15,Sheila Nezhad,Jacob Frey,AJ Awed
+16,Jacob Frey,Doug Nelson,Sheila Nezhad
+17,Marcus Harcus,Paul E. Johnson,Sheila Nezhad
+18,Jacob Frey,Sheila Nezhad,Bob Carney Jr
+19,Jacob Frey,Kate Knuth,Mike Winter
+20,AJ Awed,Sheila Nezhad,Clint Conner
+21,Jacob Frey,AJ Awed,Sheila Nezhad
+22,Kate Knuth,Sheila Nezhad,Jacob Frey
+23,Jacob Frey,AJ Awed,Mike Winter
+24,Jacob Frey,AJ Awed,Doug Nelson
+25,Sheila Nezhad,Doug Nelson,Jacob Frey
+26,Laverne Turner,Jacob Frey,Doug Nelson
+27,Marcus Harcus,Jacob Frey,Nate Atkins
+28,Clint Conner,Jacob Frey,Troy Benjegerdes
+29,Kate Knuth,Jerrell Perry,AJ Awed
+30,Jerrell Perry,Jacob Frey,AJ Awed
+31,Sheila Nezhad,Kate Knuth,Doug Nelson
+32,Laverne Turner,Sheila Nezhad,Kate Knuth
+33,Kate Knuth,Laverne Turner,Jacob Frey
+34,Sheila Nezhad,Jacob Frey,Kevin Ward
+35,Kate Knuth,Sheila Nezhad,Jacob Frey
+36,AJ Awed,Doug Nelson,Kate Knuth
+37,Sheila Nezhad,Jacob Frey,Kate Knuth
+38,Doug Nelson,Kate Knuth,Sheila Nezhad
+39,Jerrell Perry,AJ Awed,Jacob Frey
+40,Sheila Nezhad,AJ Awed,Kate Knuth
+41,Kate Knuth,AJ Awed,Jacob Frey
+42,Mike Winter,Kate Knuth,Jacob Frey
+43,Kate Knuth,Jacob Frey,Marcus Harcus
+44,Kate Knuth,Jacob Frey,Paul E. Johnson
+45,Jacob Frey,Kate Knuth,AJ Awed
+46,Sheila Nezhad,Kate Knuth,Doug Nelson
+47,Kevin Ward,Jacob Frey,Kate Knuth
+48,Kate Knuth,Marcus Harcus,Doug Nelson
+49,Sheila Nezhad,Mark Globus,Jacob Frey
+50,Kate Knuth,Jacob Frey,Sheila Nezhad
+51,Doug Nelson,Kate Knuth,AJ Awed
+52,AJ Awed,Sheila Nezhad,Jacob Frey
+53,Sheila Nezhad,Nate Atkins,Marcus Harcus
+54,Clint Conner,Sheila Nezhad,Marcus Harcus
+55,Sheila Nezhad,Jacob Frey,Kate Knuth
+56,AJ Awed,Jacob Frey,Kate Knuth
+57,Jacob Frey,Sheila Nezhad,Marcus Harcus
+58,Sheila Nezhad,Kate Knuth,AJ Awed
+59,Jacob Frey,Laverne Turner,Kate Knuth
+60,Jacob Frey,Sheila Nezhad,AJ Awed
+61,Jacob Frey,AJ Awed,Kate Knuth
+62,Kate Knuth,Marcus Harcus,Sheila Nezhad
+63,Marcus Harcus,Sheila Nezhad,Kate Knuth
+64,Kate Knuth,Jacob Frey,AJ Awed
+65,AJ Awed,Jacob Frey,Sheila Nezhad
+66,Marcus Harcus,Sheila Nezhad,AJ Awed
+67,Sheila Nezhad,Marcus Harcus,Kate Knuth
+68,Jacob Frey,Sheila Nezhad,Kate Knuth
+69,Jacob Frey,Doug Nelson,Sheila Nezhad
+70,Mike Winter,Kate Knuth,Sheila Nezhad
+71,Jacob Frey,Kate Knuth,Doug Nelson
+72,AJ Awed,Kate Knuth,Doug Nelson
+73,Sheila Nezhad,Jacob Frey,Marcus Harcus
+74,Jacob Frey,Kate Knuth,Sheila Nezhad
+75,Marcus Harcus,Sheila Nezhad,Kate Knuth
+76,Paul E. Johnson,Mike Winter,AJ Awed
+77,Marcus Harcus,AJ Awed,Jacob Frey
+78,Sheila Nezhad,Kate Knuth,Jacob Frey
+79,AJ Awed,Kate Knuth,Sheila Nezhad
+80,Sheila Nezhad,AJ Awed,Kate Knuth
+81,Jacob Frey,Paul E. Johnson,Kate Knuth
+82,Sheila Nezhad,Jacob Frey,Doug Nelson
+83,Sheila Nezhad,Christopher W David,Jacob Frey
+84,Sheila Nezhad,Kate Knuth,Jacob Frey
+85,Kate Knuth,Sheila Nezhad,AJ Awed
+86,Jerrell Perry,Marcus Harcus,Kate Knuth
+87,Jacob Frey,Sheila Nezhad,Troy Benjegerdes
+88,Sheila Nezhad,Jacob Frey,AJ Awed
+89,Sheila Nezhad,Kate Knuth,Jacob Frey
+90,Kate Knuth,Mike Winter,Marcus Harcus
+91,Doug Nelson,Sheila Nezhad,Jacob Frey
+92,AJ Awed,Kate Knuth,Clint Conner
+93,Jacob Frey,AJ Awed,Sheila Nezhad
+94,Jacob Frey,Sheila Nezhad,Kate Knuth
+95,Kate Knuth,Christopher W David,Sheila Nezhad
+96,Kate Knuth,Laverne Turner,Sheila Nezhad
+97,Jacob Frey,Sheila Nezhad,Kate Knuth
+98,AJ Awed,Kate Knuth,Sheila Nezhad
+99,Jacob Frey,Sheila Nezhad,AJ Awed
+100,Doug Nelson,Kate Knuth,Kevin Ward
+101,Sheila Nezhad,Paul E. Johnson,Kate Knuth
+102,Jacob Frey,Marcus Harcus,Kate Knuth
+103,Kate Knuth,Troy Benjegerdes,Sheila Nezhad
+104,Laverne Turner,Sheila Nezhad,AJ Awed
+105,Jacob Frey,Paul E. Johnson,Sheila Nezhad
+106,Christopher W David,Sheila Nezhad,Jacob Frey
+107,Sheila Nezhad,Jacob Frey,Laverne Turner
+108,Jacob Frey,Kate Knuth,Laverne Turner
+109,Jacob Frey,Kate Knuth,Sheila Nezhad
+110,Laverne Turner,Kate Knuth,Jacob Frey
+111,Kate Knuth,AJ Awed,Sheila Nezhad
+112,Sheila Nezhad,Laverne Turner,Kate Knuth
+113,Sheila Nezhad,Kate Knuth,Paul E. Johnson
+114,Kate Knuth,Sheila Nezhad,Kevin Ward
+115,AJ Awed,Sheila Nezhad,Laverne Turner
+116,Jacob Frey,Mike Winter,Sheila Nezhad
+117,Jacob Frey,Sheila Nezhad,AJ Awed
+118,Kate Knuth,Doug Nelson,Marcus Harcus
+119,Doug Nelson,Sheila Nezhad,Jacob Frey
+120,AJ Awed,Sheila Nezhad,Jacob Frey
+121,Kate Knuth,AJ Awed,Clint Conner
+122,Doug Nelson,Kevin Ward,Sheila Nezhad
+123,Kate Knuth,Sheila Nezhad,Doug Nelson
+124,AJ Awed,Sheila Nezhad,Mark Globus
+125,Paul E. Johnson,Sheila Nezhad,Doug Nelson
+126,Kate Knuth,Jacob Frey,Sheila Nezhad
+127,Sheila Nezhad,Kate Knuth,Marcus Harcus
+128,Sheila Nezhad,Jacob Frey,Kate Knuth
+129,Marcus Harcus,Jacob Frey,Kate Knuth
+130,Jacob Frey,AJ Awed,Sheila Nezhad
+131,Laverne Turner,Jacob Frey,Kate Knuth
+132,Jacob Frey,Kate Knuth,Laverne Turner
+133,Sheila Nezhad,Mark Globus,Kate Knuth
+134,Kate Knuth,Kevin Ward,Sheila Nezhad
+135,Sheila Nezhad,AJ Awed,Jacob Frey
+136,AJ Awed,Jacob Frey,Marcus Harcus
+137,Sheila Nezhad,Doug Nelson,Jacob Frey
+138,Sheila Nezhad,Jacob Frey,Kate Knuth
+139,Jacob Frey,Marcus Harcus,Sheila Nezhad
+140,AJ Awed,Paul E. Johnson,Kate Knuth
+141,Jacob Frey,Sheila Nezhad,Mike Winter
+142,Sheila Nezhad,Jacob Frey,Kate Knuth
+143,Jacob Frey,Sheila Nezhad,Kate Knuth
+144,Kate Knuth,Jacob Frey,Sheila Nezhad
+145,Jacob Frey,Sheila Nezhad,Kate Knuth
+146,Sheila Nezhad,Kevin Ward,Kate Knuth
+147,Jacob Frey,Sheila Nezhad,Laverne Turner
+148,Paul E. Johnson,Kate Knuth,Jacob Frey
+149,Sheila Nezhad,Kate Knuth,Clint Conner
+150,Jacob Frey,Sheila Nezhad,AJ Awed
+151,Sheila Nezhad,AJ Awed,Doug Nelson
+152,Jacob Frey,Sheila Nezhad,Doug Nelson
+153,Sheila Nezhad,Jacob Frey,Clint Conner
+154,Mike Winter,AJ Awed,Sheila Nezhad
+155,Kate Knuth,Mike Winter,Sheila Nezhad
+156,Kate Knuth,Paul E. Johnson,Jacob Frey
+157,Paul E. Johnson,Jacob Frey,Laverne Turner
+158,Jacob Frey,Mike Winter,AJ Awed
+159,Sheila Nezhad,Doug Nelson,Kate Knuth
+160,Troy Benjegerdes,Sheila Nezhad,AJ Awed
+161,Doug Nelson,AJ Awed,Jacob Frey
+162,Kate Knuth,Sheila Nezhad,AJ Awed
+163,AJ Awed,Jacob Frey,Doug Nelson
+164,AJ Awed,Kate Knuth,Mark Globus
+165,Sheila Nezhad,Jacob Frey,Kate Knuth
+166,Paul E. Johnson,Doug Nelson,Sheila Nezhad
+167,Sheila Nezhad,Jacob Frey,Kate Knuth
+168,AJ Awed,Jerrell Perry,Marcus Harcus
+169,Doug Nelson,Marcus Harcus,AJ Awed
+170,Jacob Frey,Kate Knuth,AJ Awed
+171,Jacob Frey,Doug Nelson,Sheila Nezhad
+172,Kate Knuth,AJ Awed,Sheila Nezhad
+173,Laverne Turner,Kate Knuth,Troy Benjegerdes
+174,Doug Nelson,Kate Knuth,Jacob Frey
+175,Jacob Frey,Kate Knuth,Jerrell Perry
+176,Kate Knuth,Mike Winter,Jerrell Perry
+177,Sheila Nezhad,Kate Knuth,Jacob Frey
+178,AJ Awed,Sheila Nezhad,Jacob Frey
+179,Jacob Frey,Kate Knuth,Jerrell Perry
+180,Kate Knuth,Jacob Frey,Sheila Nezhad
+181,Sheila Nezhad,Kate Knuth,Paul E. Johnson
+182,Sheila Nezhad,Kate Knuth,AJ Awed
+183,Sheila Nezhad,Kate Knuth,Laverne Turner
+184,Sheila Nezhad,Kate Knuth,Jacob Frey
+185,Jacob Frey,Sheila Nezhad,Kate Knuth
+186,Troy Benjegerdes,Sheila Nezhad,Kate Knuth
+187,AJ Awed,Sheila Nezhad,Jacob Frey
+188,Sheila Nezhad,Jacob Frey,AJ Awed
+189,Laverne Turner,Kate Knuth,Jacob Frey
+190,Kate Knuth,Clint Conner,Jacob Frey
+191,Doug Nelson,Sheila Nezhad,Kate Knuth
+192,Mike Winter,Jacob Frey,AJ Awed
+193,Jacob Frey,Sheila Nezhad,Doug Nelson
+194,Sheila Nezhad,Paul E. Johnson,Jacob Frey
+195,Christopher W David,AJ Awed,Jacob Frey
+196,Kate Knuth,Sheila Nezhad,AJ Awed
+197,Sheila Nezhad,Christopher W David,Jacob Frey
+198,Kate Knuth,Sheila Nezhad,Paul E. Johnson
+199,Kate Knuth,AJ Awed,Sheila Nezhad
+200,AJ Awed,Sheila Nezhad,Nate Atkins
+201,AJ Awed,Sheila Nezhad,Doug Nelson
+202,Kate Knuth,Sheila Nezhad,Jacob Frey
+203,Kate Knuth,Sheila Nezhad,AJ Awed
+204,Jacob Frey,Sheila Nezhad,AJ Awed
+205,Sheila Nezhad,AJ Awed,Jacob Frey
+206,Jacob Frey,Kate Knuth,Doug Nelson
+207,Jacob Frey,Marcus Harcus,Sheila Nezhad
+208,Sheila Nezhad,Jacob Frey,Kate Knuth
+209,Jacob Frey,Paul E. Johnson,Sheila Nezhad
+210,AJ Awed,Jacob Frey,Doug Nelson
+211,Sheila Nezhad,Jacob Frey,Kate Knuth
+212,Laverne Turner,Sheila Nezhad,Clint Conner
+213,Kate Knuth,Sheila Nezhad,AJ Awed
